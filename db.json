@@ -1,22 +1,22 @@
 {
   "students": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
+      "id": "e431",
+      "name": "dhruvi",
+      "number": "6544681685",
       "course": "full stack"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
+      "id": "6e2c",
+      "name": "harmi",
+      "number": "3565355445",
       "course": "backend"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": "be64",
+      "name": "nisha",
+      "number": "8761686544",
+      "course": "frontend"
     }
   ]
 }
